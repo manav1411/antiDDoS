@@ -1,0 +1,619 @@
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51365)
+Accepted connection from ('127.0.0.1', 51366)
+recieved request: GET / HTTP/1.1
+recieved request: GET /favicon.ico HTTP/1.1
+Accepted connection from ('127.0.0.1', 51373)
+Accepted connection from ('127.0.0.1', 51374)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51383)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51384)
+recieved request: GET /messagingSite HTTP/1.1
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51387)
+Accepted connection from ('127.0.0.1', 51386)
+recieved request: GET /messagingSite HTTP/1.1
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51388)
+recieved request: GET /messages HTTP/1.1
+Server listening on 127.0.0.1:8080
+Server listening on 127.0.0.1:8080
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51499)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51500)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51507)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51510)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51513)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51516)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51519)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51521)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51525)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51528)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51531)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51534)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51536)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 51539)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51541)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51546)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51549)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51552)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51555)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51558)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51560)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+IP 127.0.0.1 has been blacklisted.
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51660)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51661)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51668)
+Accepted connection from ('127.0.0.1', 51670)
+Error: not enough values to unpack (expected 2, got 1)
+Error: not enough values to unpack (expected 2, got 1)
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51710)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51711)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51718)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51721)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 51724)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51727)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"456"}
+Accepted connection from ('127.0.0.1', 51730)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51733)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"789"}
+Accepted connection from ('127.0.0.1', 51736)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51739)
+recieved request: PUT /messages/2 HTTP/1.1
+PUT request for /messages/2 with body: {"message":"69696969"}
+Accepted connection from ('127.0.0.1', 51742)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51745)
+recieved request: DELETE /messages/1 HTTP/1.1
+DELETE request for /messages/1
+Accepted connection from ('127.0.0.1', 51748)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51751)
+recieved request: DELETE /messages/3 HTTP/1.1
+DELETE request for /messages/3
+Accepted connection from ('127.0.0.1', 51754)
+recieved request: GET /messages HTTP/1.1
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51771)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51772)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51778)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51781)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"persistent storage baby!"}
+Accepted connection from ('127.0.0.1', 51784)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51787)
+recieved request: DELETE /messages/2 HTTP/1.1
+DELETE request for /messages/2
+Accepted connection from ('127.0.0.1', 51790)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51793)
+recieved request: DELETE /messages/2 HTTP/1.1
+DELETE request for /messages/2
+Accepted connection from ('127.0.0.1', 51796)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51799)
+recieved request: DELETE /messages/1 HTTP/1.1
+DELETE request for /messages/1
+Accepted connection from ('127.0.0.1', 51802)
+recieved request: DELETE /messages/3 HTTP/1.1
+DELETE request for /messages/3
+Accepted connection from ('127.0.0.1', 51805)
+recieved request: DELETE /messages/3 HTTP/1.1
+DELETE request for /messages/3
+Accepted connection from ('127.0.0.1', 51808)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51811)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51814)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51818)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 51819)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51826)
+recieved request: DELETE /messages/2 HTTP/1.1
+DELETE request for /messages/2
+Accepted connection from ('127.0.0.1', 51829)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 51832)
+recieved request: DELETE /messages/2 HTTP/1.1
+DELETE request for /messages/2
+Accepted connection from ('127.0.0.1', 51835)
+recieved request: GET /messages HTTP/1.1
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51839)
+recieved request: GET /messages HTTP/1.1
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51849)
+Accepted connection from ('127.0.0.1', 51850)
+Accepted connection from ('127.0.0.1', 51851)
+Accepted connection from ('127.0.0.1', 51852)
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 51853)
+Accepted connection from ('127.0.0.1', 51854)
+Accepted connection from ('127.0.0.1', 51855)
+Accepted connection from ('127.0.0.1', 51858)
+Accepted connection from ('127.0.0.1', 51859)
+IP 127.0.0.1 has been blacklisted.
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51875)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51876)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51877)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51878)
+Error: not enough values to unpack (expected 2, got 1)
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 51879)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51880)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51881)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51884)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 51886)
+Error: not enough values to unpack (expected 2, got 1)
+IP 127.0.0.1 has been blacklisted.
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 51999)
+recieved request: GET /?1699264259.352337 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52000)
+recieved request: GET /?1699264259.3524961 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52001)
+recieved request: GET /?1699264259.352661 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52002)
+recieved request: GET /?1699264259.352777 HTTP/1.1
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 52003)
+recieved request: GET /?1699264259.3528872 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52004)
+recieved request: GET /?1699264259.353002 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52005)
+recieved request: GET /?1699264259.85602 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52008)
+recieved request: GET /?1699264260.057188 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52010)
+recieved request: GET /?1699264260.258861 HTTP/1.1
+IP 127.0.0.1 has been blacklisted.
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 52028)
+recieved request: GET /?1699264271.579225 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52029)
+recieved request: GET /?1699264271.579405 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52030)
+recieved request: GET /?1699264271.579526 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52031)
+recieved request: GET /?1699264271.579638 HTTP/1.1
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 52032)
+recieved request: GET /?1699264271.579753 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52033)
+recieved request: GET /?1699264271.579873 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52034)
+recieved request: GET /?1699264271.8820071 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52037)
+recieved request: GET /?1699264272.084227 HTTP/1.1
+Accepted connection from ('127.0.0.1', 52039)
+recieved request: GET /?1699264272.285564 HTTP/1.1
+IP 127.0.0.1 has been blacklisted.
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 52435)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 52436)
+Error: Empty request received
+Accepted connection from ('127.0.0.1', 52439)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 52441)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":""}
+Accepted connection from ('127.0.0.1', 52443)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"123"}
+Accepted connection from ('127.0.0.1', 52445)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 52446)
+Error: Empty request received
+Accepted connection from ('127.0.0.1', 52450)
+recieved request: GET /messagingSite HTTP/1.1
+Accepted connection from ('127.0.0.1', 52451)
+Error: Empty request received
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 52456)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52458)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52460)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52462)
+recieved request: GET / HTTP/1.1
+IP 127.0.0.1 is exhibiting bad behavior. Rate limited.
+Accepted connection from ('127.0.0.1', 52464)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52466)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52468)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52611)
+recieved request: GET / HTTP/1.1
+Accepted connection from ('127.0.0.1', 52610)
+recieved request: GET / HTTP/1.1
+IP 127.0.0.1 has been blacklisted.
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Blacklisted IP: 127.0.0.1 - Connection dropped
+Server listening on 127.0.0.1:8080

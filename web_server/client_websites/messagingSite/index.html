@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Messaging Site</title>
+    <style>
+        /* Use a nicer font and a softer background */
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f9f9fb;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            transition: background-color 0.3s ease;
+        }
+
+        /* Add some shadow and transition to the header for a nice hover effect */
+        h1 {
+            text-align: center;
+        }
+
+        h4 {
+            text-align: center;
+        }
+
+        /* Input and button container for flex display */
+        div {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        /* Stylish inputs with transitions */
+        input[type="text"] {
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 20px;
+            width: calc(100% - 22px);
+            box-sizing: border-box;
+            margin-right: 10px;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="text"]:focus {
+            border-color: #5c6bc0;
+            outline: none;
+        }
+
+        /* 3D button effect on hover and active state */
+        button {
+            background-color: #5c6bc0;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px;
+            cursor: pointer;
+            border-radius: 20px;
+            color: white;
+            box-shadow: 0 4px #999;
+            transition: all 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #3f51b5;
+            box-shadow: 0 2px #666;
+            transform: translateY(2px);
+        }
+
+        button:active {
+            background-color: #3f51b5;
+            box-shadow: 0 1px #666;
+            transform: translateY(4px);
+        }
+
+        /* Response box with subtle shadow */
+        #response {
+            white-space: pre-wrap;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease;
+        }
+
+        #response:hover {
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+                /* Section Titles */
+                .section-heading {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+            color: #5c6bc0;
+            text-align: center;
+        }
+
+        /* Visual Dividers */
+        .divider {
+            margin: 20px auto;
+            border-bottom: 2px solid #ddd;
+            width: 80%;
+        }
+
+        /* Button with Icon */
+        .button-icon {
+            margin-right: 5px;
+        }
+
+        /* Responsive design */
+        @media (max-width: 600px) {
+            div {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            input[type="text"], button {
+                width: 100%;
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+        }
+
+        /* CSS Variables for Easy Theme Management */
+        :root {
+            --primary-color: #5c6bc0;
+            --hover-color: #3f51b5;
+            --button-shadow: 0 4px #999;
+            --input-focus-color: #5c6bc0;
+            --error-color: #e53935;
+        }
+
+        input[type="text"]:invalid {
+            border-color: var(--error-color);
+        }
+    </style>
+
+    <script>
+      // Helper function to send an HTTP request and update the page content
+      function sendRequest(method, path, body) {
+          var xhr = new XMLHttpRequest();
+          xhr.open(method, path, true);
+          xhr.setRequestHeader('Content-Type', 'application/json');
+          xhr.onreadystatechange = function() {
+              if (xhr.readyState == 4) {
+                  document.getElementById('response').textContent = xhr.responseText;
+              }
+          };
+          xhr.send(body ? JSON.stringify(body) : null);
+      }
+
+      // Function to get messages
+      function getMessages() {
+          sendRequest('GET', '/messages');
+      }
+
+      // Function to create a new message
+      function createMessage() {
+          var messageContent = document.getElementById('messageContent').value;
+          sendRequest('POST', '/messages', { message: messageContent });
+      }
+
+      // Function to update a message
+      function updateMessage() {
+        var messageId = document.getElementById('updateMessageId').value;
+        var newContent = document.getElementById('newMessageContent').value;
+        sendRequest('PUT', '/messages/' + messageId, { message: newContent });
+      }
+
+
+      // Function to delete a message
+      function deleteMessage() {
+        var messageId = document.getElementById('deleteMessageId').value;
+        sendRequest('DELETE', '/messages/' + messageId);
+      }
+  </script>
+</head>
+<body>
+    <h1>Messaging Site</h1>
+    <h4>please wait 1sec for each operation (artificial delay to emulate larger requests)</h4>
+    <div>
+        <button onclick="getMessages()">Get Messages</button>
+    </div>
+    <div>
+        <input type="text" id="messageContent" placeholder="New message">
+        <button onclick="createMessage()">Create Message</button>
+    </div>
+    <div>
+      <input type="text" id="updateMessageId" placeholder="Message ID">
+      <input type="text" id="newMessageContent" placeholder="New message content">
+      <button onclick="updateMessage()">Update Message</button>
+    </div>
+    <div>
+      <input type="text" id="deleteMessageId" placeholder="Message ID">
+      <button onclick="deleteMessage()">Delete Message</button>
+    </div>
+    <pre id="response"></pre>
+</body>
+</html>
