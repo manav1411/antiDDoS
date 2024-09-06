@@ -8,11 +8,11 @@ A documentation of my notes / research is available in report.pdf above.
 
 ## Screenshots
 
-Server working as expected:
+Server working as expected:\
 <img width="400" alt="Screenshot 2024-09-06 at 5 43 48 pm" src="https://github.com/user-attachments/assets/01aba2c2-9c9e-42b7-abdf-f4794440727d">
 
-Example client website, hosted on server (there are a few, in the /client_websites directory:
-<img width="300" alt="Screenshot 2024-09-06 at 5 58 46 pm" src="https://github.com/user-attachments/assets/577d9f63-872c-4140-aecb-3783d9c9cd06">
+Example client website, hosted on server (there are a few, in the /client_websites directory:\
+<img width="400" alt="Screenshot 2024-09-06 at 5 58 46 pm" src="https://github.com/user-attachments/assets/577d9f63-872c-4140-aecb-3783d9c9cd06">
 
 
 Effect of attacks on server:
