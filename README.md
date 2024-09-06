@@ -9,10 +9,10 @@ A documentation of my notes / research is available in report.pdf above.
 ## Screenshots
 
 Server working as expected:
-<img width="869" alt="Screenshot 2024-09-06 at 5 43 48 pm" src="https://github.com/user-attachments/assets/01aba2c2-9c9e-42b7-abdf-f4794440727d">
+<img width="400" alt="Screenshot 2024-09-06 at 5 43 48 pm" src="https://github.com/user-attachments/assets/01aba2c2-9c9e-42b7-abdf-f4794440727d">
 
 Example client website, hosted on server (there are a few, in the /client_websites directory:
-<img width="634" alt="Screenshot 2024-09-06 at 5 58 46 pm" src="https://github.com/user-attachments/assets/577d9f63-872c-4140-aecb-3783d9c9cd06">
+<img width="300" alt="Screenshot 2024-09-06 at 5 58 46 pm" src="https://github.com/user-attachments/assets/577d9f63-872c-4140-aecb-3783d9c9cd06">
 
 
 Effect of attacks on server:
@@ -25,5 +25,5 @@ Effect of attacks after server fortifications:
 
 ## How to Run
 1. to start web server, naavigate to /iteration1 (or /iteration2 for fortified), run `python3 web_server.py`.
-2. to run a client website on the running server, on a browser visit the url of format: `server_URL:port/client_website_dir_name`.\ e.g. `http://127.0.0.1:8080/messagingSite`
+2. to run a client website on the running server, on a browser visit the url of format: `server_URL:port/client_website_dir_name`. e.g. `http://127.0.0.1:8080/messagingSite`
 3. to run various attacks, open another terminal window, navigate to /attacker directory, run of format: `python3 ATTACK_NAME.py`.
