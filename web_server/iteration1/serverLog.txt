@@ -1588,3 +1588,56 @@ Sec-Fetch-Dest: empty
 Referer: http://localhost:8080/CRUDTesting
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Server listening on 127.0.0.1:8080
+Accepted connection from ('127.0.0.1', 63908)
+Accepted connection from ('127.0.0.1', 63909)
+recieved request: GET /messagingSite/ HTTP/1.1
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 63915)
+recieved request: GET /favicon.ico HTTP/1.1
+Accepted connection from ('127.0.0.1', 63916)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 63920)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"first message!"}
+Accepted connection from ('127.0.0.1', 63930)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 63931)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"first message!"}
+Accepted connection from ('127.0.0.1', 63932)
+recieved request: DELETE /messages/ HTTP/1.1
+DELETE request for /messages/
+Accepted connection from ('127.0.0.1', 63939)
+recieved request: DELETE /messages/1 HTTP/1.1
+DELETE request for /messages/1
+Accepted connection from ('127.0.0.1', 63941)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 63942)
+recieved request: DELETE /messages/2 HTTP/1.1
+DELETE request for /messages/2
+Accepted connection from ('127.0.0.1', 63943)
+recieved request: GET /messages HTTP/1.1
+Accepted connection from ('127.0.0.1', 63944)
+recieved request: POST /messages HTTP/1.1
+POST request body: {"message":"first message!"}
+Accepted connection from ('127.0.0.1', 63950)
+Accepted connection from ('127.0.0.1', 63949)
+recieved request: GET /helloWorld HTTP/1.1
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 63952)
+Accepted connection from ('127.0.0.1', 63953)
+recieved request: GET /helloWorldSite HTTP/1.1
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 63988)
+Accepted connection from ('127.0.0.1', 63987)
+Error: not enough values to unpack (expected 2, got 1)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 63992)
+Accepted connection from ('127.0.0.1', 63993)
+Error: not enough values to unpack (expected 2, got 1)
+Error: not enough values to unpack (expected 2, got 1)
+Accepted connection from ('127.0.0.1', 64002)
+Accepted connection from ('127.0.0.1', 64003)
+recieved request: GET /messagingSite HTTP/1.1
+Error: not enough values to unpack (expected 2, got 1)
